@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Muhammad riaz.com</title>
+
+</head>
+
+<body>
+
+    <h1>{{ $details['name'] }}</h1>
+
+    <p>{{ $details['email'] }}</p>
+    <p>{{ $details['subject'] }}</p>
+
+   
+
+    <p>Thank you</p>
+
+</body>
+
+</html>
